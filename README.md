@@ -19,7 +19,7 @@ This README document steps necessary to get your application up and running.
 
 	`cd Install-Pentaho-Data-Integration-PDI-Ubuntu-18.04`
 	
-	`source install_pdi_unbuntu.sh`
+	`source install-pdi-unbuntu.sh`
 
 
 ### What will be installed? ###
