@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo ""
+echo "Do you want to install Java 8.0.252.hs-adpt ?"
+echo ""
 select yn in Yes No
 do
     case $yn in
