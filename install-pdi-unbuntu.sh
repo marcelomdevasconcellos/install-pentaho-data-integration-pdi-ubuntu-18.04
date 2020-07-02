@@ -31,7 +31,7 @@ echo ""
 echo "Downloading Pentaho Data Integration 9.0.0.0-423 ..."
 echo ""
 wget https://ufpr.dl.sourceforge.net/project/pentaho/Pentaho%209.0/client-tools/pdi-ce-9.0.0.0-423.zip
-unzip pdi-ce-9.0.0.0-423.zip -d ./pentaho
+sudo unzip pdi-ce-9.0.0.0-423.zip -d /opt/pentaho
 
 echo ""
 echo ""
